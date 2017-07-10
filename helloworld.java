@@ -4,9 +4,9 @@ public class helloworld{
 		//第一次修改的版本
 		
 		System.out.println("helloworld{!");
+	}
 	
-		//第二次修改的版本
-		
-		
+	public static void say(){
+			System.out.println("say!");
 	}
 }
